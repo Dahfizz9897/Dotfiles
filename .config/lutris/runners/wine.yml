@@ -1,0 +1,3 @@
+system: {}
+wine:
+  custom_wine_path: /bin/wine

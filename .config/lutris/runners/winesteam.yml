@@ -1,0 +1,3 @@
+system: {}
+winesteam:
+  steam_path: ~/.wine/drive_c/Program Files (x86)/Steam

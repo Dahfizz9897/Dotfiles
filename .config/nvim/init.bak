@@ -1,0 +1,5 @@
+set runtimepath+=~/.vim,~/.vim/after
+set packpath+=~/.vim
+source ~/.vimrc
+
+au VimLeave * silent execute "!print -n -- '\033[5 q'"
